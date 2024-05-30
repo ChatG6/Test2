@@ -1,4 +1,4 @@
-#!/home/ec2-user/server/Back/bd/env/bin/python3
+#!/home/ec2-user/server/Back-2/env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
